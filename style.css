@@ -1,7 +1,8 @@
-header footer {
-  background-color: #8B0000;
+header {
+  background-color: "#8B0000";
   font-family: serif, arial;
-  font-color: #000000; 
+  font-color: "#000000"; 
+  
 }
 
 h1 {
@@ -12,7 +13,7 @@ h1 {
 body {
   background-color: C0C0C0;
   font-family: "times new roman";
-  font-color: #000000;
+  font-color: "#000000";
   font-size: 13px;
 }
 
