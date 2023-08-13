@@ -25,7 +25,7 @@ a:hover {
   text-decoration: none;
 }
 
-@media (max-width: 576px) {
+img (max-width: 576px) {
   .img-profile {
     max-width: 12rem;
     max-height: 12rem;
