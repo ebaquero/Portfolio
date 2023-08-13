@@ -1,5 +1,5 @@
 header {
-  background-color: #8B0000;
+  background-color: #E9967A;
   font-family: serif, arial;
   font-color: #000000; 
   height: 120px;
@@ -22,7 +22,8 @@ body {
 }
 
 footer {
-  background-color: #8B0000;
+  background-color: #E9967A;
   font-family: serif, arial;
-  font-color: #000000; 
+  font-color: #000000;
+  text-align: center
 }
