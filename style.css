@@ -39,7 +39,7 @@ footer {
   background-color: #eadfc9;
 }
 
-article {
+article, ul, ol, li {
   text-align: center;
   margin: 10, 200, 10, 200
 }
