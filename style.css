@@ -44,4 +44,9 @@ article, ul, ol, li {
   margin: 10, 200, 10, 200
 }
 
+p, li {
+  text-align: center;
+  margin: 10, 200, 10, 200
+}
+
 
