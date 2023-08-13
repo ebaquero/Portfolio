@@ -1,1 +1,18 @@
+header footer {
+  background-color: #8B0000;
+  font-family: serif, arial;
+  font-color: #000000; 
+}
+
+h1 {
+  font-size: 35px;
+  font-align: center;
+}
+
+body {
+  background-color: C0C0C0;
+  font-family: "times new roman";
+  font-color: #000000;
+  font-size: 13px;
+}
 
