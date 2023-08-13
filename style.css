@@ -2,12 +2,12 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #6C757D;
   background-color: #eadfc9;
-  text-alignment: center;
+  text-align: center;
 }
 
 h1, h2, h3, h4 {
   color: #343a40;
-  text-alignment: center;
+  text-align: center;
 }
 
 hr {
@@ -17,7 +17,7 @@ hr {
 
 a {
   color: #f3a14b;
-  text-alignment: right;
+  text-align: right;
 }
 
 a:hover {
@@ -40,7 +40,7 @@ footer {
 }
 
 article {
-  text-alignment: center;
+  text-align: center;
   margin: 10, 200, 10, 200
 }
 
