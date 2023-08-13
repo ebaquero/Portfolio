@@ -24,27 +24,6 @@ a:hover {
   text-decoration: none;
 }
 
-.last-name-highlight {
-  color: #f3a14b;
-}
-@media (max-width: 576px) {
-  .masthead-full-name {
-    font-family: 'Anton', sans-serif;
-    text-transform: uppercase;
-    font-size: 2rem;
-  }
-}
-
-.bg-primary {
-  background-color: #eadfc9 !important;
-}
-
-.img-profile {
-  max-width: 15rem;
-  max-height: 15rem;
-  border: 0.5rem solid rgba(255, 249, 251, 0.5);
-}
-
 @media (max-width: 576px) {
   .img-profile {
     max-width: 12rem;
