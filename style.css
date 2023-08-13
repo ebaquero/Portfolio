@@ -6,7 +6,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-  color: #343a40
+  color: #343a40;
   text-alignment: center;
 }
 
@@ -17,6 +17,7 @@ hr {
 
 a {
   color: #f3a14b;
+  text-alignment: right;
 }
 
 a:hover {
@@ -36,6 +37,10 @@ footer {
   text-align: center;
   font-size: 0.9rem;
   background-color: #eadfc9;
+}
+
+article {
+  text-alignment: center;
 }
 
 
